@@ -1,0 +1,15 @@
+.DS_Store
+._.DS_Store
+._CMakeLists.txt
+._test.JPG
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+Train
+*.jpg
