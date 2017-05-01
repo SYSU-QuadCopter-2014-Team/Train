@@ -13,4 +13,5 @@ compile_commands.json
 CTestTestfile.cmake
 Train
 *~
+._*
 n*.jpg
